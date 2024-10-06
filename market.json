@@ -1,4 +1,4 @@
-{
+,{
     "at_market": "奧地利市場",
     "au_market": "澳大利亞市場",
     "be_market": "比利時市場",
@@ -34,5 +34,10 @@
     "tw_market": "台灣市場",
     "us_market": "美國市場",
     "us24_market": "美國市場(24)",
-    "vs_market": "越南市場"
+    "vs_market": "越南市場",
+    "in_market": "印度市場",
+    "cn_market": "中國市場",
+    "hk_market": "香港市場",
+    "id_market": "印尼市場",
+    "nz_market": "紐西蘭市場",
 }
