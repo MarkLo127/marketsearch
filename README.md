@@ -20,7 +20,7 @@
 ### 1. 克隆專案
 
 ```bash
-git clone https://github.com/MarkLo127/marketkinfo.git
+git clone https://github.com/MarkLo127/marketsearch.git
 ```
 
 ### 2. 進入專案目錄
