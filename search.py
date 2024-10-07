@@ -90,6 +90,7 @@ def app():
     免責聲明：        
     1. 本平台僅適用於數據搜尋，不建議任何投資行為
     2. 排版問題建議使用電腦查詢數據  
+    3. 其他專案：[MarketInfo](https://market-info-usa.streamlit.app)  
     """
     )
 
